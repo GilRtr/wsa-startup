@@ -154,7 +154,7 @@
       <updated>1605570011632</updated>
       <workItem from="1605570013294" duration="12898000" />
       <workItem from="1605649349262" duration="563000" />
-      <workItem from="1605649951577" duration="8789000" />
+      <workItem from="1605649951577" duration="9535000" />
     </task>
     <task id="LOCAL-00001" summary="Add everything">
       <created>1605684933982</created>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605684933982</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Push to github">
+      <created>1605693457976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605693457976</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +202,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add everything" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add everything" />
+    <MESSAGE value="Push to github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push to github" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1605684268640">
@@ -218,14 +226,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1876" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605684878019" />
-    <state x="552" y="260" key="Vcs.Push.Dialog.v2" timestamp="1605684944478">
+    <state x="552" y="260" key="Vcs.Push.Dialog.v2" timestamp="1605693611192">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605684944478" />
-    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1605684696055">
+    <state x="552" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605693611192" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1605694092162">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605684696055" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605694092162" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605693335736">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

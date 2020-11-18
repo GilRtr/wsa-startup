@@ -1,7 +1,7 @@
 [package]
 name = "wsa-startup"
 version = "0.1.0"
-authors = ["Gil Rtr <glrtr2003@gmail.com>"]
+authors = ["Gil Reiter <glrtr2003@gmail.com>"]
 edition = "2018"
 description = '''
 This crate allows you to easily set up windows for raw sockets if WSA is giving you problems'''
@@ -9,6 +9,7 @@ readme = "README.md"
 keywords = ["ffi", "net", "windows"]
 categories = ["api-bindings", "network-programming"]
 license = "WTFPL"
+repository = "https://github.com/GilRtr/wsa-startup"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
