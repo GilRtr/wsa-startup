@@ -1,0 +1,15 @@
+[package]
+name = "wsa-startup"
+version = "0.1.0"
+authors = ["Gil Rtr <glrtr2003@gmail.com>"]
+edition = "2018"
+description = '''
+This crate allows you to easily set up windows for raw sockets if WSA is giving you problems'''
+readme = "README.md"
+keywords = ["ffi", "net", "windows"]
+categories = ["api-bindings", "network-programming"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+winapi = { version = "0.3.9", features = ["winsock2", "minwindef"] }
