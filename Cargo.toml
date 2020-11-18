@@ -8,6 +8,7 @@ This crate allows you to easily set up windows for raw sockets if WSA is giving 
 readme = "README.md"
 keywords = ["ffi", "net", "windows"]
 categories = ["api-bindings", "network-programming"]
+license = "WTFPL"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

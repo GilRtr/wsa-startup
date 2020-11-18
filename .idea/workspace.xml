@@ -7,7 +7,13 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated />
@@ -22,11 +28,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2047895-134d-4c1d-8fd6-049b703d68a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/wsa-startup.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,8 +154,16 @@
       <updated>1605570011632</updated>
       <workItem from="1605570013294" duration="12898000" />
       <workItem from="1605649349262" duration="563000" />
-      <workItem from="1605649951577" duration="7748000" />
+      <workItem from="1605649951577" duration="8789000" />
     </task>
+    <task id="LOCAL-00001" summary="Add everything">
+      <created>1605684933982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605684933982</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,41 +174,61 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add everything" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add everything" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="765" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1605684268640">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="765" y="256" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1605684268640" />
-    <state width="1876" height="295" key="GridCell.Tab.0.bottom" timestamp="1605684540773">
+    <state width="1876" height="295" key="GridCell.Tab.0.bottom" timestamp="1605684878019">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605684540773" />
-    <state width="1876" height="295" key="GridCell.Tab.0.center" timestamp="1605684540773">
+    <state width="1876" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605684878019" />
+    <state width="1876" height="295" key="GridCell.Tab.0.center" timestamp="1605684878019">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605684540773" />
-    <state width="1876" height="295" key="GridCell.Tab.0.left" timestamp="1605684540773">
+    <state width="1876" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605684878019" />
+    <state width="1876" height="295" key="GridCell.Tab.0.left" timestamp="1605684878019">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605684540773" />
-    <state width="1876" height="295" key="GridCell.Tab.0.right" timestamp="1605684540773">
+    <state width="1876" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605684878019" />
+    <state width="1876" height="295" key="GridCell.Tab.0.right" timestamp="1605684878019">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605684540773" />
-    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1605684540747">
+    <state width="1876" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605684878019" />
+    <state x="552" y="260" key="Vcs.Push.Dialog.v2" timestamp="1605684944478">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605684540747" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605682340559">
+    <state x="552" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605684944478" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1605684696055">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605682340559" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605684696055" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605693335736">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605693335736" />
   </component>
 </project>
